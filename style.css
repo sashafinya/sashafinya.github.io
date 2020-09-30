@@ -1,0 +1,38 @@
+#flex {
+   text-align: center;
+}
+body {
+    background-color: #01b49e;
+}
+h1 {
+    font-size: 45px;
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+h3 {
+    color: white;
+    text-align: line;
+    font-size: 30px;
+    margin: 0 auto;
+    line-height: 2;
+    letter-spacing: 3px;
+}
+#panel {
+    display: flex;
+  Flex direction: line;
+  width: 1000px;
+  margin: 0 auto;
+  background-color: white;
+  border: 3px solid black;
+}
+main {
+    background-color: white;
+    font-size: 30px;
+    width: 1000px;
+    line-height: 1.5;
+    letter-spacing 2px;
+  margin: 0 auto;
+  border: 3px solid black;
+}
